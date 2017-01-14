@@ -1,1 +1,84 @@
+Dersin Amacı
+
+Map nedir?
+Map oluşturma
+Map içindeki eleman sayısı alma
+Map içindeki elemanlara erişme (for döngüsü)
+
+
 1-telefon rehberi oluşturma
+
+
+
+Telefon Rehberinin Özellikleri
+
+1 - Kayıt Ekle
+2 - Kayıt Listele
+3 - Kayıt Sil
+
+-------------------------------
+
+Plan :
+
+1 - Kullancıya yapacağı işlemi sor.
+2 - Yapılacak işlemi çağır
+
+---------------------------------------------------------------
+
+Ekran : 1  Karşılama Ekranı
+
+CenkSoft Telefon Rehberi v1.0
+
+Hoşgeldiniz, Gerçekleştirmek istediğiniz işlemi seçiniz :
+
+[1] Kayıt Ekle
+[2] Kayıt Listele
+[3] Kayıt Sil
+
+Islem Numarası :
+
+----------------------------------------------------------------
+
+Ekran 2 : Kayıt Ekleme Ekranı
+
+Merhaba, Kayıt Ekleme Ekranına Hoş Geldiniz
+
+Eklemek istediğiniz kişinin Adı Nedir?
+
+Eklemek istediğiniz kişinin Telefonu Nedir?
+
+----------------------------------------------------------------
+
+Ekran 3 : Listeleme Ekranı
+
+Kayıt Listleme Ekranı
+
+
+Cenk Deniz 535 394 03 23
+Zeki Unal  555 701 40 69
+Hakan Darik 555 555 52 53
+
+
+[
+    [0] = [
+        [name] = cenk
+        [lastname] = deniz
+        [phone] = 555
+    ]
+
+    [1] = [
+
+        [name] = zeki
+        [lastname] = unal
+        [phone] = 535
+    ]
+
+    [2] = [
+
+        [name] = zeki
+        [lastname] = unal
+        [phone] = 535
+    ]
+]
+
+
